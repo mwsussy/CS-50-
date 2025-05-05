@@ -1,4 +1,4 @@
-# CS-50-
+# CS-50-week1
 # Project Description
 This is a C program that recreates a pyramid structure similar to the ones seen in Super Mario. The user is prompted to input the height of the pyramid (between 1 and 8), and the program prints a double-sided pyramid of that height.
 # how It Works
